@@ -1,0 +1,2 @@
+1 – Encontre referências e comente: a. A relação entre a LGPD e os Data Centers no Brasil b. Formatos de arquivos de dados proprietários e abertos b.1 forneça exemplos de formatos b.2 discuta as implicações relacionadas a dados públicos 2 – Inclua seus comentários no arquivo de texto NO githu
+
