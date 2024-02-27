@@ -1,0 +1,12 @@
+1 – Explique as diferenças entre 3 linguagens de programação: a. Tente fazer um código mínimo em cada uma delas; b. Tente executar o seu código; 2 – Inclua seus comentários e prova de execução em um novo arquivo de texto NO github
+
+--> 1) Python: É uma linguagem de programação de alto nível, conhecida pela sua simplicidade e legibilidade de código. É amplamente usada em várias áreas, incluindo desenvolvimento web, ciência de dados, inteligência artificial e automação.
+--> 2) Java: Uma linguagem orientada a objetos, conhecida por sua portabilidade e robustez. Geralmente, é a linguagem principal para o desenvolvimento de aplicativos Android.
+--> 3) JavaScript É uma linguagem predominante no desenvolvimento web, essencial para criar páginas interativas e dinâmicas na internet.
+
+
+
+
+
+
+
